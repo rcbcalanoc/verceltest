@@ -67,3 +67,7 @@
 .register-page .btn-primary {
   width: 100%;
 }
+
+.btn-primary{
+  background-color: black;
+}
